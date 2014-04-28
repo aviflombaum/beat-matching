@@ -48,3 +48,13 @@ The goal here is to get both beats of the tracks to play together. That's consid
 Virtual DJ represents a beat by a grid on the top. Each track gets its on color. Watch the gif below. The tracks are in sync in terms of tempo, just not phrase. Then I line them up by adjusting their pitch or manipulating the deck (or platter).
 
 ![Phrase Match](http://aviflombaum.s3.amazonaws.com/etc/off-phrase.gif)
+
+So play with the pitch or the platter and try to get your tracks to align.
+
+*DONT FORGET - USE YOUR EARS. Think about if its behind or ahead. Adjust one track to pitch*
+
+## BONUS - Choosing a Good Phrase
+
+Now if you're just going for tempo and phrase match, you are a poor DJ.
+
+Think about it, lots of things are beats, you have a drum, a bass, a high (like a hi hat), lots of sounds. Which do you want to sync up? Both bass drums? Create the phrasing that sounds best.
