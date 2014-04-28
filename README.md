@@ -62,3 +62,7 @@ _DONT FORGET - USE YOUR EARS. Listen to whether it is behind or ahead_
 Now if you're just going for tempo and phrase match, you are a poor DJ.
 
 Think about it, lots of things are beats, you have a drum, a bass, a high (like a hi hat), lots of sounds. Which do you want to sync up? Both bass drums? Create the phrasing that sounds best.
+
+## Resources
+
+[VirtualDJ has a good video to help](https://www.youtube.com/watch?v=9iqdxdmU8T4)
