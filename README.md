@@ -13,7 +13,7 @@ Your goal in this lab is to use VirtualDJ Home, a free DJ application to sync tw
 
 You will then need to adjust the phrasing of the track, by using the decks or pressing play more on beat.
 
-_YOU MAY NOT USE THE SYNC BUTTON_
+**YOU MAY NOT USE THE SYNC BUTTON**
 
 The goal here is to get a sense of when a track sounds:
 
@@ -55,7 +55,7 @@ So play with the pitch or the platter and try to get your tracks to align.
 
 _DONT FORGET - USE YOUR EARS. Listen to whether it is behind or ahead_
 
-*Choose one track to adjust pitch on*
+**Choose one track to adjust pitch on**
 
 ## BONUS - Choosing a Good Phrase
 
