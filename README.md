@@ -51,6 +51,8 @@ Virtual DJ represents a beat by a grid on the top. Each track gets its on color.
 
 So play with the pitch or the platter and try to get your tracks to align.
 
+![Adjusting Phrasing](http://dl.dropboxusercontent.com/s/l7n7jrmhe2zejno/2014-04-28%20at%204.40%20PM%202x.png)
+
 *DONT FORGET - USE YOUR EARS. Think about if its behind or ahead. Adjust one track to pitch*
 
 ## BONUS - Choosing a Good Phrase
