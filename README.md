@@ -7,7 +7,7 @@ language: music
 
 Beatmatching is the act that DJs use to synch to separate songs together.
 
-!(http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Beat-matching.svg/500px-Beat-matching.svg.png)
+![Beatmatching](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Beat-matching.svg/500px-Beat-matching.svg.png)
 
 Your goal in this lab is to use VirtualDJ Home, a free DJ application to sync two tracks. You will have to adjust the pitch of the track in order to create a tempo match.
 
@@ -25,7 +25,7 @@ The goal here is to get a sense of when a track sounds:
 
 Go to [VirtualDJ](https://www.virtualdj.com/download/free.html) download the application. Install it. Register for the site. Start it up.
 
-[You Should See](http://dl.dropboxusercontent.com/s/8z8ixr1gian9zfy/2014-04-28%20at%204.21%20PM%202x.png)
+![You Should See](http://dl.dropboxusercontent.com/s/8z8ixr1gian9zfy/2014-04-28%20at%204.21%20PM%202x.png)
 
 ## Picking Tracks
 
@@ -37,7 +37,7 @@ I'm using: [Sexual Healing](https://soundcloud.com/nickraymondg/marvin-gaye-sexu
 
 We want to manipulate a track so that both tracks tempos match up.
 
-[Tempo Match](http://dl.dropboxusercontent.com/s/moe2ljemv6p5fog/2014-04-28%20at%204.26%20PM%202x.png)
+![Tempo Match](http://dl.dropboxusercontent.com/s/moe2ljemv6p5fog/2014-04-28%20at%204.26%20PM%202x.png)
 
 Adjust the pitch on your two tracks so they are set the same.
 
@@ -47,4 +47,4 @@ The goal here is to get both beats of the tracks to play together. That's consid
 
 Virtual DJ represents a beat by a grid on the top. Each track gets its on color. Watch the gif below. The tracks are in sync in terms of tempo, just not phrase. Then I line them up by adjusting their pitch or manipulating the deck (or platter).
 
-[Phrase Match](http://aviflombaum.s3.amazonaws.com/etc/off-phrase.gif)
+![Phrase Match](http://aviflombaum.s3.amazonaws.com/etc/off-phrase.gif)
